@@ -22,7 +22,7 @@ major medical insurance to accurately project the current and future state of th
 
     For plans that include pharmacy have you seen prescription durations increase potentially
     creating more "seasonality" in your pharmacy claims, e.g. March high, April and May low, another
-    bump in June, due to a large number of 90 fills in March?
+    bump in June, due to a large number of 90 day fills in March?
 
 ## Deferred vs Avoided Care
 
@@ -36,8 +36,8 @@ Research Brief.
 - [ ] **Provider capacity**
 
     Once "normal" returns to a geography, what is your estimate that the health system future
-    non-COVID-19 capacity? Do you need to model both increases above your baseline estimate for
-    providers having spare capacity and impairments due to ongoing COVID-19 related care.
+    non-COVID-19 capacity? Do you need to model both increases above a "normal baseline" estimate
+    for providers having spare capacity and impairments due to ongoing COVID-19 related care.
 - [ ] **COVID-19 Related Care**
 
     Do you need to estimate future COVID-19 related care? Is that estimate consistent with the
@@ -60,7 +60,7 @@ Research Brief.
 
     Some states are requiring continuation of the policies during the COVID-19 pandemic. While these
     premiums are earned, given economic disruptions, this may lead to a higher than normal allowance
-    for bad debt.
+    for bad debt while claim costs may or may not be smaller.
 - [ ] **2021 Rate Review**
 
     As the rate review process continues for 2021, what are assumptions/scenarios that would cause
